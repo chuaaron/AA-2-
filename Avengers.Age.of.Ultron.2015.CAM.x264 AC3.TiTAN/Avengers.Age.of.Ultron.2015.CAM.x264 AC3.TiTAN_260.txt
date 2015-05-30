@@ -1,0 +1,20 @@
+﻿
+1265
+01:51:30,414 --> 01:51:32,391
+Altitude is 18,000 and climbing.
+
+1266
+01:51:32,480 --> 01:51:38,880
+Lifeboats secure to deploy.  Disengage in 3, 2...  Take 'em out.
+
+1267
+01:51:48,129 --> 01:51:49,149
+This is SHIELD?
+
+1268
+01:51:50,231 --> 01:51:52,748
+This is what SHIELD's supposed to be.
+
+1269
+01:51:54,571 --> 01:51:55,864
+This is not so bad.

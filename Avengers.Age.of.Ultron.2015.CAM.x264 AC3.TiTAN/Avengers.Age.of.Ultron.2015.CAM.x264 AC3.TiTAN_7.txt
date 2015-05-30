@@ -1,0 +1,20 @@
+﻿00:03:52,961 --> 00:03:55,886
+This quadrant is unsafe.  Please back away.
+
+31
+00:03:56,631 --> 00:03:57,992
+We are here to help.
+
+32
+00:03:59,234 --> 00:04:01,934
+This quadrant is unsafe.  Please back away.
+
+33
+00:04:03,494 --> 00:04:04,650
+Please back away.
+
+34
+00:04:04,473 --> 00:04:09,168
+We wish to avoid collateral damage and will inform you when this current conflict is resolved.
+
+35

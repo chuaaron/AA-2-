@@ -1,0 +1,20 @@
+﻿
+191
+00:18:39,780 --> 00:18:44,134
+Down in Strucker's lab I saw some fairly advanced robotics work.
+
+192
+00:18:44,417 --> 00:18:46,517
+They deep-sixed the data, but...
+
+193
+00:18:47,255 --> 00:18:50,969
+...I gotta guess he was knocking on a very particular door.
+
+194
+00:18:52,540 --> 00:18:53,940
+Artificial intelligence.
+
+195
+00:18:56,697 --> 00:19:00,983
+This could be it, Bruce.  This could be key to creating Ultron.

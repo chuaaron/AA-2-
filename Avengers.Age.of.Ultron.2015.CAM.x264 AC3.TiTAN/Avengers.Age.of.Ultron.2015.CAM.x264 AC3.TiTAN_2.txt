@@ -1,0 +1,20 @@
+﻿
+6
+00:01:55,178 --> 00:01:57,423
+The central building is protected by some kind of energy shield.
+
+7
+00:01:58,648 --> 00:02:03,410
+Strucker's technology is well beyond any other Hydra base we've taken.
+
+8
+00:02:05,620 --> 00:02:10,494
+Loki's scepter must be here.  Strucker couldn't mount this defense without it.
+
+9
+00:02:10,531 --> 00:02:11,415
+At long last.
+
+10
+00:02:23,676 --> 00:02:26,669
+At long last is lasting a little long, boys.
